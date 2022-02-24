@@ -1,0 +1,9 @@
+click
+Flask
+Flask-JWT
+itsdangerous
+Jinja2
+MarkupSafe
+PyJWT
+python-dotenv
+Werkzeug
